@@ -1,24 +1,41 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+## Imroz
 
-## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+[![Student Hackathons](https://img.shields.io/badge/Student%20Hackathons-5-0A66C2?style=flat-square)](https://img.shields.io/)
+[![AWS Summit](https://img.shields.io/badge/AWS%20Summit-Attended-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://img.shields.io/)
+[![Linux Administration](https://img.shields.io/badge/Linux%20Administration-Coaching-2E8B57?style=flat-square&logo=linux&logoColor=white)](https://img.shields.io/)
+[![Robotics Projects](https://img.shields.io/badge/Microcontroller%20Projects-10-1F6FEB?style=flat-square&logo=arduino&logoColor=white)](https://img.shields.io/)
+[![Python](https://img.shields.io/badge/Python-College%20Learning-3776AB?style=flat-square&logo=python&logoColor=white)](https://img.shields.io/)
+[![C Language](https://img.shields.io/badge/C-College%20Learning-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://img.shields.io/)
+[![HTML](https://img.shields.io/badge/HTML-Self%20Study-E34F26?style=flat-square&logo=html5&logoColor=white)](https://img.shields.io/)
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+I am a B.Tech student in Robotics and Automation at NIT Kurukshetra, building projects around Python, JavaScript, Linux, and practical automation.
+
+- Location: Tirupati, Andhra Pradesh
+- Education: B.Tech in Robotics and Automation, NIT Kurukshetra
+- Duration: 2025 - 2029
+- GitHub: [ImroZ-616](https://github.com/ImroZ-616)
+
+## Focus
+
+I like working on small, useful systems that combine software, automation, and problem solving. My current work is centered on learning, practice projects, and building a stronger engineering foundation.
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- [terminal-bot](https://github.com/ImroZ-616/terminal-bot) - JavaScript project for terminal-based automation.
+- [banking-system](https://github.com/ImroZ-616/banking-system) - Python project focused on core application logic.
+- [Leetcode-journey](https://github.com/ImroZ-616/Leetcode-journey) - Python notes and practice for problem solving.
+
+## Tech Stack
+
+- Python
+- JavaScript
+- Linux
+- HTML
+- Jupyter Notebook
+
+## Contact
+
+If you want to connect, feel free to reach out through GitHub.
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
